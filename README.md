@@ -1,2 +1,2 @@
-# Algorithms
-algorithm foe bounceOff and Touching function
+# p5.play-boilerplate
+Boiler plate for p5.play
